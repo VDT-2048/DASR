@@ -10,5 +10,8 @@ The dataset and code are available at:https://pan.baidu.com/s/1rWE5nn3cOcyxvNIWv
 # Paper
 https://www.sciencedirect.com/science/article/abs/pii/S1350449523002955
 
+[2023-DASR Dual-Attention Transformer for infrared image super-resolution.pdf](https://github.com/VDT-2048/DASR/files/13700282/2023-DASR.Dual-Attention.Transformer.for.infrared.image.super-resolution.pdf)
+
+
 # Citation
 Shubo Liang, Kechen Song, Wenli Zhao, Song Li, Yunhui Yan. DASR: Dual-Attention Transformer for Infrared Image Super-resolution [J]. Infrared Physics & Technology, 2023
